@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 venv
 .DS_Store
+Kaggle_House_Price/my_pred.csv
